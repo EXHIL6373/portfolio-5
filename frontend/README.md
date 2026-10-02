@@ -1,16 +1,74 @@
-# React + Vite
+# Jothimani — Full-Stack & Cloud DevOps Engineer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+An ultra-modern, high-performance developer portfolio built to the **BEXO Premium Portfolio Standard**, featuring interactive 3D WebGL visuals, cybernetic sound design, and data-driven profile rendering.
 
-Currently, two official plugins are available:
+🔗 **Live Production URL:** [https://portfolio-5-versal.vercel.app/](https://portfolio-5-versal.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🌟 Key Highlights & Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **BEXO Canonical 4-Route Architecture:** `Home` → `Portfolio` → `Contact` → `Hire Me`.
+- **BEXO Recommended Portfolio Ordering:** About / Identity → Technical Capabilities & Stack → Chronological Evolution → Academic Foundation → Selected Work → Credentials & Certifications → Algorithmic Problem Solving.
+- **Dedicated Talent Handoff Modal:** BEXO talent handoff workflow with platform redirect (`/hire-me/{handle}`) and instant email fallback.
+- **3D WebGL Kinetic Sculpture:** High-performance procedural Three.js background sculpture with tone mapping and multi-point lighting.
+- **Dedicated 3D Preloader:** Interactive 3D polyhedron quantum core animation with boot diagnostics.
+- **3D Tilt Portrait Centerpiece:** Edge-to-edge datacenter studio portrait with rotating orbital rings, floating tech badges (AWS, Docker, Linux, Kubernetes), and mouse tilt depth.
+- **Custom Dual Magnetic Cursor:** Awwwards-style fluid inertia aura tracking with contextual hover states.
+- **Synthesized Audio Feedback:** Web Audio API cybernetic sound effects with persistent mute/unmute control.
+- **Interactive Tech Matrix:** Dynamic categorization across Cloud, Programming, Web, and Database technologies.
+- **Live Algorithmic Milestones:** Dynamic stats integration with verified offline fallback.
+- **Accessible Contact Pipeline:** Anti-spam honeypot, field validation (name, email, phone), and `aria-live` real-time announcements.
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Tech Stack
+
+- **Framework:** React 19 + Vite 8
+- **3D & Visuals:** Three.js, OGL, React Bits
+- **Styling:** Tailwind CSS v4, Glassmorphism, CSS Custom Variables
+- **Icons:** Lucide React, FontAwesome 6
+- **Sound:** Native HTML5 Web Audio API Synthesizer
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js 18+
+- npm or yarn
+
+### Installation
+```bash
+cd frontend
+npm install
+```
+
+### Local Development
+```bash
+npm run dev
+```
+
+### Production Build
+```bash
+npm run build
+```
+
+---
+
+## ☁️ Deployment
+
+### Live Deployment on Vercel
+Deployed live at: [https://portfolio-5-versal.vercel.app/](https://portfolio-5-versal.vercel.app/)
+- **Root Directory:** `frontend`
+- **Application Preset:** `Vite`
+- **Build Command:** `npm run build`
+- **Output Directory:** `dist`
+
+### Deploy on GitHub Pages
+Automated via `.github/workflows/deploy.yml` on every push to `main`.
+
+---
+
+## 📄 License
+Private / Proprietary — Built for BEXO Premium Templates.

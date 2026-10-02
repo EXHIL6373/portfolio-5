@@ -2,6 +2,8 @@
 
 An ultra-modern, high-performance developer portfolio built to the **BEXO Premium Portfolio Standard**, featuring interactive 3D WebGL visuals, cybernetic sound design, and data-driven profile rendering.
 
+🔗 **Live Production URL:** [https://portfolio-5-versal.vercel.app/](https://portfolio-5-versal.vercel.app/)
+
 ---
 
 ## 🌟 Key Highlights & Features
@@ -56,11 +58,12 @@ npm run build
 
 ## ☁️ Deployment
 
-### Deploy on Vercel
-This repository includes a root `vercel.json` configured out-of-the-box:
-- **Build Command:** `cd frontend && npm install && npm run build`
-- **Output Directory:** `frontend/dist`
-- **Framework Preset:** `Vite`
+### Live Deployment on Vercel
+Deployed live at: [https://portfolio-5-versal.vercel.app/](https://portfolio-5-versal.vercel.app/)
+- **Root Directory:** `frontend`
+- **Application Preset:** `Vite`
+- **Build Command:** `npm run build`
+- **Output Directory:** `dist`
 
 ### Deploy on GitHub Pages
 Automated via `.github/workflows/deploy.yml` on every push to `main`.
