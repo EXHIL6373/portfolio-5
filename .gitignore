@@ -1,0 +1,15 @@
+# Dependencies
+node_modules
+frontend/node_modules
+
+# Production Build
+dist
+frontend/dist
+dist-ssr
+
+# Local environment & caches
+.env*.local
+.vscode
+assets_backup
+.DS_Store
+*.log
